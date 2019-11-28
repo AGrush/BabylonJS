@@ -34,6 +34,7 @@ BjsApp.init = function(){
 	var box = BABYLON.Mesh.CreateBox('box', 1, scene);
 	box.position = new BABYLON.Vector3(7, 2, -5);
 	
+	// cyl, height, diameter top, diameter botom, tesselation, scene
 	var cylinder = BABYLON.Mesh.CreateCylinder('cyl', 5, 1, 3, 30, scene);
 	
 	var lines = BABYLON.Mesh.CreateLines('lines', [

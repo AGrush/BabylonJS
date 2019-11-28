@@ -18,6 +18,7 @@ BjsApp.init = function(){
   //let the user move the camera
   camera.attachControl(canvas);
   
+  //only specific to rotating camera
   //camera.upperRadiusLimit = 50;
   
   //light
@@ -39,7 +40,6 @@ BjsApp.init = function(){
   //sun light
   var sunLight = new BABYLON.PointLight('sunLight', BABYLON.Vector3.Zero(), scene);
   sunLight.intensity = 2;
-  
   
   //planets
   var planetMaterial = new BABYLON.StandardMaterial('planetMat', scene);

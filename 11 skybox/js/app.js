@@ -18,6 +18,7 @@ BjsApp.init = function(){
   //let the user move the camera
   camera.attachControl(canvas);
   
+  //dont let camera go further than 50 radius (can set lower limit too)
   camera.upperRadiusLimit = 50;
   
   //light
@@ -57,7 +58,7 @@ BjsApp.init = function(){
   //dont render what we cant see
   skyboxMaterial.backFaceCulling = false;
   
-  //move with camera
+  //move skybox with camera
   skybox.infiniteDistance = true;
   
   skybox.material = skyboxMaterial;

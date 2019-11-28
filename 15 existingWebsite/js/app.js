@@ -45,7 +45,7 @@ BjsApp.init = function(){
   var planetMaterial = new BABYLON.StandardMaterial('planetMat', scene);
   planetMaterial.diffuseTexture = new BABYLON.Texture('assets/images/sand.jpg', scene);
   planetMaterial.specularColor = new BABYLON.Color3(0, 0, 0);
-  
+   
   var planet1 = BABYLON.Mesh.CreateSphere('planet1', 16, 1, scene);
   planet1.position.x = 4;
   planet1.material = planetMaterial;

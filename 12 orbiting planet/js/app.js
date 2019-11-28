@@ -49,6 +49,7 @@ BjsApp.init = function(){
   var planet1 = BABYLON.Mesh.CreateSphere('planet1', 16, 1, scene);
   planet1.position.x = 4;
   planet1.material = planetMaterial;
+  //arbitrary object for planet
   planet1.orbit = {
     radius: planet1.position.x,
     speed: 0.01,

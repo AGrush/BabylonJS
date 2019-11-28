@@ -28,6 +28,7 @@ BjsApp.init = function(){
 	grass.diffuseTexture = new BABYLON.Texture('assets/images/grass.png', scene);
 	grass.diffuseTexture.uScale = 10;
 	grass.diffuseTexture.vScale = 10;
+	//stop grass from reflecting light
 	grass.specularColor = new BABYLON.Color3(0, 0, 0);
 	
 	ground.material = grass;
@@ -41,11 +42,13 @@ BjsApp.init = function(){
 	sphere2.scaling = new BABYLON.Vector3(1, 0.5, 0.5);
 	
 	var sphereMaterial = new BABYLON.StandardMaterial('sphereMat', scene);
+
+	//diffuse color only shows when there is light
 	sphereMaterial.diffuseColor = new BABYLON.Color3(1, 0, 0);
 	sphereMaterial.alpha = 0.5;
 	sphereMaterial.specularColor = new BABYLON.Color3(0, 0, 1);
+	//how much power in the specularColor
 	sphereMaterial.specularPower = 5;
-	
 	sphere2.material = sphereMaterial;
 	
 	var box = BABYLON.Mesh.CreateBox('box', 1, scene);

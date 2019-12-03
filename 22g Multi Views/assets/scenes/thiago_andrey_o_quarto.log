@@ -1,0 +1,844 @@
+	Exporter version: 3.0.1, Blender version: 2.75 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of mesh:  leaves.001
+		processing begun of Standard material:  leaves
+		num positions      :  16440
+		num normals        :  16440
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36990
+	processing begun of mesh:  stems_1.001
+		processing begun of Standard material:  stems_1
+		num positions      :  2457
+		num normals        :  2457
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  14175
+	processing begun of mesh:  trunk.001
+		processing begun of Standard material:  trunk
+		num positions      :  481
+		num normals        :  481
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2868
+	processing begun of mesh:  trunk
+		registered as also a user of material:  trunk
+		num positions      :  481
+		num normals        :  481
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2868
+	processing begun of mesh:  stems_1
+		registered as also a user of material:  stems_1
+		num positions      :  2457
+		num normals        :  2457
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  14175
+	processing begun of mesh:  leaves
+		registered as also a user of material:  leaves
+		num positions      :  16440
+		num normals        :  16440
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36990
+	processing begun of mesh:  Plane.019
+		processing begun of Standard material:  Material.039
+		num positions      :  0
+		num normals        :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  0
+	processing begun of mesh:  Plane.018
+		registered as also a user of material:  Material.039
+		num positions      :  0
+		num normals        :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  0
+	processing begun of mesh:  Cube.059
+		processing begun of Standard material:  Material.018
+			WARNING: Material has image texture with no UV map assigned:  "Tex.008" ignored
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.058
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.057
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.056
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.055
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.054
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.053
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.052
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.051
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.050
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.049
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.048
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.047
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.046
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.045
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.044
+		processing begun of Standard material:  Material.015
+		num positions      :  188
+		num normals        :  188
+		num uvs            :  376
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  225
+	processing begun of mesh:  Cube.043
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.014
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.042
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.014
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cylinder.011
+		processing begun of Standard material:  Material.037
+		num positions      :  872
+		num normals        :  872
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5220
+	processing begun of mesh:  Cylinder.010
+		processing begun of Standard material:  Material.036
+		num positions      :  872
+		num normals        :  872
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5220
+	processing begun of mesh:  Cylinder.009
+		processing begun of Standard material:  Material.035
+		num positions      :  872
+		num normals        :  872
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5220
+	processing begun of mesh:  Cylinder.008
+		processing begun of Standard material:  Material.023
+			WARNING: Material has image texture with no UV map assigned:  "Tex.018" ignored
+		num positions      :  34
+		num normals        :  34
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Cylinder.007
+		processing begun of Standard material:  Material.030
+		num positions      :  107
+		num normals        :  107
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Cylinder.006
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.032
+		num positions      :  302
+		num normals        :  302
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1800
+	processing begun of mesh:  Plane.015
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.028
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cylinder.005
+		processing begun of Standard material:  Material.031
+		num positions      :  107
+		num normals        :  107
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Cylinder.004
+		processing begun of Standard material:  Material.029
+		num positions      :  107
+		num normals        :  107
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Plane.013
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.028
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Plane.012
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.028
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cube.041
+		processing begun of Standard material:  Material.033
+		num positions      :  204
+		num normals        :  204
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.040
+		registered as also a user of material:  Material.033
+		num positions      :  204
+		num normals        :  204
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.039
+		registered as also a user of material:  Material.033
+		num positions      :  204
+		num normals        :  204
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cube.038
+		registered as also a user of material:  Material.033
+		num positions      :  204
+		num normals        :  204
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Plane.011
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.028
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Plane.010
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.028
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cylinder.003
+		registered as also a user of material:  Material.029
+		num positions      :  107
+		num normals        :  107
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Cylinder.002
+		registered as also a user of material:  Material.031
+		num positions      :  107
+		num normals        :  107
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Plane.014
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.028
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cylinder.001
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.032
+		num positions      :  302
+		num normals        :  302
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1800
+	processing begun of mesh:  Cylinder
+		registered as also a user of material:  Material.030
+		num positions      :  107
+		num normals        :  107
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  630
+	processing begun of mesh:  Cube.037
+		processing begun of Standard material:  Material.002
+			WARNING: Material has image texture with no UV map assigned:  "Tex.002" ignored
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Cube.036
+		processing begun of Standard material:  Material.003
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.035
+		processing begun of Standard material:  Material.004
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.034
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.027
+		num positions      :  50
+		num normals        :  50
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  288
+	processing begun of mesh:  Cube.033
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.026
+		num positions      :  67
+		num normals        :  67
+		num uvs            :  134
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of camera (FreeCamera):  Camera.001
+	processing begun of mesh:  Sphere.002
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.025
+		num positions      :  962
+		num normals        :  962
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5760
+	processing begun of mesh:  Sphere.001
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.025
+		num positions      :  962
+		num normals        :  962
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5760
+	processing begun of mesh:  Sphere
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.025
+		num positions      :  962
+		num normals        :  962
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5760
+	processing begun of mesh:  Plane.009
+		processing begun of Standard material:  Material.021
+			WARNING: Material has image texture with no UV map assigned:  "Tex.009" ignored
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.008
+		processing begun of Standard material:  Material.019
+			WARNING: Material has image texture with no UV map assigned:  "Tex.006" ignored
+		num positions      :  117
+		num normals        :  117
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  600
+	processing begun of mesh:  Plane.007
+		registered as also a user of material:  Material.019
+		num positions      :  117
+		num normals        :  117
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  600
+	processing begun of mesh:  Plane.006
+		registered as also a user of material:  Material.019
+		num positions      :  117
+		num normals        :  117
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  600
+	processing begun of mesh:  Plane.005
+		registered as also a user of material:  Material.019
+		num positions      :  117
+		num normals        :  117
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  600
+	processing begun of mesh:  Plane.003
+		registered as also a user of material:  Material.019
+		num positions      :  117
+		num normals        :  117
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  600
+	processing begun of mesh:  Plane.004
+		registered as also a user of material:  Material.019
+		num positions      :  117
+		num normals        :  117
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  600
+	processing begun of mesh:  Cube.032
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.024
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.031
+		registered as also a user of material:  Material.018
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.030
+		registered as also a user of material:  Material.018
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.029
+		processing begun of Standard material:  Material.022
+			WARNING: Material has image texture with no UV map assigned:  "Tex.005" ignored
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane.002
+		processing begun of Standard material:  Material.020
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  162
+	FCurve animation processing begun for:  Camera
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of mesh:  Cube.028
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.014
+		num positions      :  73
+		num normals        :  73
+		num uvs            :  146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.027
+		registered as also a user of material:  Material.004
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.026
+		registered as also a user of material:  Material.003
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.025
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Cube.024
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Cube.023
+		registered as also a user of material:  Material.003
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.022
+		registered as also a user of material:  Material.004
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.021
+		processing begun of Standard material:  Material.011
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020
+		processing begun of Standard material:  Material.010
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.019
+		processing begun of Standard material:  Material.013
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.018
+		processing begun of Standard material:  Material.012
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.017
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.001
+		num positions      :  2946
+		num normals        :  2946
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17664
+	processing begun of mesh:  Cube.016
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.001
+		num positions      :  2946
+		num normals        :  2946
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17664
+	processing begun of mesh:  Cube.015
+		registered as also a user of material:  Material.012
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014
+		registered as also a user of material:  Material.013
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		registered as also a user of material:  Material.010
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012
+		registered as also a user of material:  Material.011
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		registered as also a user of material:  Material.011
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		registered as also a user of material:  Material.010
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		registered as also a user of material:  Material.013
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008
+		registered as also a user of material:  Material.012
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.007
+		processing begun of Standard material:  Material
+		num positions      :  84
+		num normals        :  84
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  486
+	processing begun of mesh:  Plane
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		processing begun of Standard material:  Material.008
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.006
+		processing begun of Standard material:  Material.007
+		num positions      :  356
+		num normals        :  356
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2058
+	processing begun of mesh:  Cube.005
+		processing begun of Standard material:  Material.005
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.004
+		processing begun of Standard material:  Material.006
+			WARNING: Material has image texture with no UV map assigned:  "Tex.003" ignored
+		num positions      :  52
+		num normals        :  52
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  312
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.003
+		registered as also a user of material:  Material.004
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.002
+		registered as also a user of material:  Material.003
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.001
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Cube
+		WARNING: Contains material requiring baking, but resources not available.  Probably .blend very old
+		registered as also a user of material:  Material.001
+		num positions      :  2946
+		num normals        :  2946
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17664
+	processing begun of light (POINT):  Lamp.006
+	processing begun of light (POINT):  Lamp.005
+	processing begun of light (POINT):  Lamp.004
+	processing begun of light (SPOT):  Lamp.003
+	processing begun of light (SPOT):  Lamp.001
+	processing begun of light (POINT):  Lamp.002
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.3953 secs

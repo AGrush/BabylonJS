@@ -21,6 +21,9 @@ BjsApp.init = function () {
     // This creates a basic Babylon Scene object (non-mesh)
     var scene = new BABYLON.Scene(engine);
 
+    //SEETHROUGH
+    scene.clearColor = new BABYLON.Color4(0,0,0,0);
+
     // Need a free camera for collisions
     var camera = new BABYLON.FreeCamera("FreeCamera", new BABYLON.Vector3(0, 4, -15), scene);
     camera.attachControl(canvas, true);
